@@ -3,7 +3,7 @@ title: Why I bought a brompton
 modified: 2016-08-15
 layout: post
 comments: true
-tags: [brompton]
+tags: [brompton, ottawa, folding bike, sturmey-archer]
 
 ---
 
