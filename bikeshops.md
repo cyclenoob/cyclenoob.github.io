@@ -14,7 +14,7 @@ This page is about the bike shops that I've been frequenting
 
 # Tall Tree Cycles
 
-![Talltree](/images/t2.png)
+![Talltree](/images/talltree.png)
 
 [Tall Tree Cycles](http://talltreecycles.ca/) is a nice local bike shop. Very funny owners and staff, very friendly. I haven't given the shop as much patronage as I should, but I plan to lean on them for any special tune-ups, maintenance, and to inspect any work I've done myself if I'm unsure of it.
 
