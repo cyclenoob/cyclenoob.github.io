@@ -1,5 +1,5 @@
 ---
-title: Brompton Zero-Day upgrades part 1: Brooks Saddle
+title: Brompton Zero-Day upgrades part 1 - Brooks Saddle
 modified: 2016-08-23
 layout: post
 comments: true
